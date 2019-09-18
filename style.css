@@ -6,3 +6,11 @@ header{
     height: 30%;
     width: 20%;
 }
+footer{
+    background-color: rgb(60, 22, 17);
+    height: 30%;
+    width: 20%;
+}
+section{
+    background-color: yellow;
+}
